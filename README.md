@@ -1,2 +1,3 @@
 # Hello-World
-Another repo
+Hello its ISA.I like github for reading developers codes.I like JS and web development.
+I am just at the beginning of JS.But I will learn it...
